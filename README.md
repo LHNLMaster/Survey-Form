@@ -1,4 +1,4 @@
 "# Survey-Form"
-### Web Clone:
+### Sample website:
 
 https://survey-form.freecodecamp.rocks/
